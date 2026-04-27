@@ -1,4 +1,4 @@
-# Health and Fitness Tracking Backend
+# Real-time state propagation in asynchronous systems (Backend)
 
 Backend API for a university final-year project application.
 
@@ -7,6 +7,10 @@ Backend API for a university final-year project application.
 - Application: **Health and Fitness Tracking Application**
 - Research/dissertation title: **Real-time state propagation in asynchronous systems**
 - Scope of this repository: **backend only** (Spring Boot API)
+
+## Related Repository
+
+- Frontend (React): [https://github.com/MyNameIsHamzah/async-system-frontend-react](https://github.com/MyNameIsHamzah/async-system-frontend-react)
 
 ## What This Service Provides
 
